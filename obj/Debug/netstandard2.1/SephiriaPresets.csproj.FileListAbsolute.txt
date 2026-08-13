@@ -1,0 +1,10 @@
+C:\Users\8Byt\git repos\SephiriaPresets\bin\Debug\netstandard2.1\SephiriaPresets.deps.json
+C:\Users\8Byt\git repos\SephiriaPresets\bin\Debug\netstandard2.1\SephiriaPresets.dll
+C:\Users\8Byt\git repos\SephiriaPresets\bin\Debug\netstandard2.1\SephiriaPresets.pdb
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.csproj.AssemblyReference.cache
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.AssemblyInfoInputs.cache
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.AssemblyInfo.cs
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.csproj.CoreCompileInputs.cache
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.dll
+C:\Users\8Byt\git repos\SephiriaPresets\obj\Debug\netstandard2.1\SephiriaPresets.pdb
