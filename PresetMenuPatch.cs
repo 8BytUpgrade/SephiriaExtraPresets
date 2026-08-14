@@ -1,9 +1,4 @@
-﻿using System.Collections.Generic;
-using HarmonyLib;
-using TMPro;
-using UnityEngine;
-using UnityEngine.UI;
-using BepInEx.Logging;
+﻿using HarmonyLib;
 
 namespace SephiriaPresets;
 
@@ -17,16 +12,5 @@ internal static class PresetSlotPatch
         __result = 50;
         Plugin.Log.LogInfo($"Preset limit is: {__result}");
         return false;
-    }
-}
-
-[HarmonyPatch(typeof(UI_PresetPanel), "RebuildPresetSlotButtons")]
-internal static class RebuildPresetSlotButtonsPatch
-{
-    [HarmonyPrefix]
-    private static void Prefix(UI_PresetPanel __instance)
-    {
-        Plugin.Log.LogInfo("RebuildPresetSlotButtons is starting");
-        
     }
 }
